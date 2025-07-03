@@ -1108,6 +1108,9 @@ overflow-x: auto;
   margin: 20px 20px 10px 20px;
   border-top: 1px solid #eee;
 }
+.friends .friends-page .box .text .link{
+  gap: 5px;
+}
 /* End Friends */
 /* Start Files  */
 .files .files-page {
